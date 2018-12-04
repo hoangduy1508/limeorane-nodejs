@@ -1,0 +1,10 @@
+select{
+    background-image: none !important;
+    padding-right:0 !important;
+}
+.main-color{
+    display:block !important;
+}
+div{
+    background-color:red;
+}
